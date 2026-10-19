@@ -1,0 +1,18 @@
+{
+  "checked_date": "2026-10-19",
+  "method": "Actual systeme.io editor UI and authenticated lesson View, not a simulated DOM",
+  "course_state": "inactive",
+  "lecture_state": "inactive",
+  "fixture": "Official public H5P documentation demo in saved Raw HTML block",
+  "interactive_result": "Selected answer and Check returned1 out of1 points inside iframe",
+  "comments_result": "Enabled lesson comments and saved one synthetic owner-only reflection",
+  "independent_student_accounts": 0,
+  "course_copies_tested": 0,
+  "score_passback_verified": false,
+  "cohort_isolation_verified": false,
+  "payments_tested": false,
+  "screen_reader_accessibility_tested": false,
+  "actual_customer_results": 0,
+  "ai_assistance_disclosed": true,
+  "privacy": "No owner IDs, customer data, auth URLs, credentials or bank information published."
+}
